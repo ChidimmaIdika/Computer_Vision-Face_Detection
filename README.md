@@ -1,6 +1,7 @@
 # Computer_Vision-Face_Detection
 
-![image](https://github.com/ChidimmaIdika/Computer_Vision-Face_Detection/assets/137975543/5e037adc-9712-45ed-9b70-e256d997c788)
+![image](https://github.com/ChidimmaIdika/Computer_Vision-Face_Detection/assets/137975543/93d0aea3-8c5f-48f1-bc45-befb9e9a216e)
+
 
 # Face Detection using OpenCV
 
@@ -26,17 +27,17 @@ Before running the code, ensure you have the following dependencies installed:
 - OpenCV (4.8.1.78 or higher)
 - NumPy (>=1.19.3)
 
-You can install OpenCV and NumPy using pip:
-!pip install opencv-python
+You can install OpenCV and NumPy using pip:   
+!pip install opencv-python   
 !pip install numpy
 
 ## How to Use
-1. Clone this repository:
-git clone https://github.com/ChidimmaIdika/face-detection.git
+1. Clone this repository:   
+git clone https://github.com/ChidimmaIdika/Computer_Vision-Face_Detection.git
 cd face-detection
-2. Run the face_detection.py script:
+3. Run the face_detection.py script:
    python face_detection.py
-3. Press the 'q' key to exit the webcam feed.
+4. Press the 'q' key to exit the webcam feed.
 
 ## Implementation Details
 The key components of this project are as follows:
@@ -51,7 +52,7 @@ The detect function takes the grayscale image and the original frame and returns
 This project is licensed under the MIT License.
 
 ## Acknowledgments
-- OpenCV for providing the Haar-cascade classifiers
+- [OpenCV](https://github.com/opencv/opencv/tree/4.x/data/haarcascades) for providing the Haar-cascade classifiers
 - [10Alytics](https://github.com/10Alytics)
 
 ## Author
