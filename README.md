@@ -3,7 +3,7 @@
 ![image](https://github.com/ChidimmaIdika/Computer_Vision-Face_Detection/assets/137975543/93d0aea3-8c5f-48f1-bc45-befb9e9a216e)
 
 
-# Face Detection using OpenCV
+## Face Detection using OpenCV
 
 ## Table of Contents
 1. [Overview](#overview)
@@ -18,7 +18,8 @@
 
 
 ## Overview
-This project demonstrates real-time face detection using Python and the OpenCV library. I leveraged Haar-cascade classifiers to detect faces in a webcam feed and draw rectangles around them.
+This project demonstrates real-time face detection using Python and the OpenCV library.    
+I leveraged Haar-cascade classifiers to detect faces in a webcam feed and draw rectangles around them.
 
 ## Prerequisites
 Before running the code, ensure you have the following dependencies installed:
@@ -42,8 +43,8 @@ cd face-detection
 ## Implementation Details
 The key components of this project are as follows:
 
-I used Haar-cascade classifiers provided by OpenCV to detect frontal faces.
-The detect function takes the grayscale image and the original frame and returns the frame with rectangles drawn around detected faces.
+-I used Haar-cascade classifiers provided by OpenCV to detect frontal faces.
+-The detect function takes the grayscale image and the original frame and returns the frame with rectangles drawn around detected faces.
 
 ## Sample Output
 ![image](https://github.com/ChidimmaIdika/Computer_Vision-Face_Detection/assets/137975543/0ea70ac0-31cf-4307-a67d-be684dfb613a)
