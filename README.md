@@ -35,9 +35,9 @@ You can install OpenCV and NumPy using pip:
 1. Clone this repository:   
 git clone https://github.com/ChidimmaIdika/Computer_Vision-Face_Detection.git
 cd face-detection
-3. Run the face_detection.py script:
+2. Run the face_detection.py script:
    python face_detection.py
-4. Press the 'q' key to exit the webcam feed.
+3. Press the 'q' key to exit the webcam feed.
 
 ## Implementation Details
 The key components of this project are as follows:
@@ -52,7 +52,7 @@ The detect function takes the grayscale image and the original frame and returns
 This project is licensed under the MIT License.
 
 ## Acknowledgments
-- [OpenCV](https://github.com/opencv/opencv/tree/4.x/data/haarcascades) for providing the Haar-cascade classifiers
+- [OpenCV](https://github.com/opencv/opencv/tree/4.x/data/haarcascades) for providing the Haar-cascade classifiers.
 - [10Alytics](https://github.com/10Alytics)
 
 ## Author
