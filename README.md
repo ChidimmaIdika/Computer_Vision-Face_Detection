@@ -33,18 +33,18 @@ You can install OpenCV and NumPy using pip:
 !pip install numpy
 
 ## How to Use
-1. Clone this repository:   
+1. Clone this repository:    
 git clone https://github.com/ChidimmaIdika/Computer_Vision-Face_Detection.git
 cd face-detection
-2. Run the face_detection.py script:
+2. Run the face_detection.py script:   
    python face_detection.py
 3. Press the 'q' key to exit the webcam feed.
 
 ## Implementation Details
 The key components of this project are as follows:
 
--I used Haar-cascade classifiers provided by OpenCV to detect frontal faces.
--The detect function takes the grayscale image and the original frame and returns the frame with rectangles drawn around detected faces.
+- I used Haar-cascade classifiers provided by OpenCV to detect frontal faces.   
+- The detect function takes the grayscale image and the original frame and returns the frame with rectangles drawn around detected faces.
 
 ## Sample Output
 ![image](https://github.com/ChidimmaIdika/Computer_Vision-Face_Detection/assets/137975543/0ea70ac0-31cf-4307-a67d-be684dfb613a)
