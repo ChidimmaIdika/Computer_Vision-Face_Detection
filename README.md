@@ -48,6 +48,8 @@ The key components of this project are as follows:
 
 ## Sample Output
 ![image](https://github.com/ChidimmaIdika/Computer_Vision-Face_Detection/assets/137975543/0ea70ac0-31cf-4307-a67d-be684dfb613a)
+![FD](https://github.com/ChidimmaIdika/Computer_Vision-Face_Detection/assets/137975543/da5d103f-b5fa-4c7a-bfb6-213ef1ffca17)
+
 
 ## License
 This project is licensed under the MIT License.
